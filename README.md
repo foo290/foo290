@@ -7,3 +7,5 @@
 * At present i'm working on my own AI🤖 project, exploring the roots of atrificially intelligent neurons.
 
 ###### My username is inspired by a famous place holder in programming world!
+
+Visit my Portfolio at <a href='https://mydigitalprofile.herokuapp.com'>My Portfolio</a> 😄
