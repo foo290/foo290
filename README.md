@@ -8,4 +8,12 @@
 
 ###### My username is inspired by a famous place holder in programming world!
 
+#### Tools and Tech
+<img src='icons/icon (1).ico' width=30px> <img src='icons/icon (1).png' width=30px> <img src='icons/icon (2).png' width=30px> <img src='icons/icon (2).ico' width=30px> <img src='icons/icon (3).png' width=30px>
+
+
+
+
+
 Visit my Portfolio at <a href='https://mydigitalprofile.herokuapp.com'>My Portfolio</a> 😄
+
