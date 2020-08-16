@@ -8,10 +8,6 @@
 
 ###### My username is inspired by a famous place holder in programming world!
 
-#### Tools and Tech
-<img src='github.com/foo290/icons/icon(1).ico' width=30px> <img src='github.com/icons/icon(1).png' width=30px> <img src='github.com/icons/icon(2).png' width=30px> <img src='github.com/icons/icon(2).ico' width=30px> <img src='github.com/icons/icon(3).png' width=30px>
-
-
 
 
 
