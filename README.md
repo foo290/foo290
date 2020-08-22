@@ -2,9 +2,9 @@
 ### Hi there! 🙋🏼‍♂️
 * I am an autodidact programmer proficient in python 🐍, housing the profound knowledge of my field.
 * I am keen learner 👨🏼‍🎓, fond of technology👨🏼‍💻 and imaginative creativity.
-* It's been 3 years since i started working with python and now it is my primary coding language.
-* I want to learn more about my field and would love to help any fellow developer or beginner to learn this beautiful language.
-* At present i'm working on my own AI🤖 project, exploring the roots of artificially intelligent neurons.
+* It's been 3 years since I started working with python and now it is my primary coding language.
+* I want to learn more about my field and would love to help any fellow developer or beginner to learn.
+* At present I'm working on my own AI🤖 project, exploring the roots of artificially intelligent neurons.
 
 ###### My username is inspired by a famous place holder in programming world!
 
