@@ -10,8 +10,8 @@ Visit my Portfolio at <a href='https://mydigitalprofile.herokuapp.com'>My Portfo
 
 <hr>
 
-### Listning to Spotify [<img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/spotify.svg" />][instagram]🎧
-[![Not listning to any Songs right now!](https://novatorem-mu.vercel.app/api/spotify)](https://open.spotify.com/user/8nn30yykzlqao2u3q3zlseual)
+### Listning to Spotify [<img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/spotify.svg" />][spotify]🎧
+[![Not listning to any Songs right now!](https://novatorem-mu.vercel.app/api/spotify)][spotify]
 
 ### Stats:
 
@@ -27,6 +27,7 @@ Visit my Portfolio at <a href='https://mydigitalprofile.herokuapp.com'>My Portfo
 [<img align="left" alt="Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/spotify.svg" />][spotify]
 
 <br />
 
@@ -51,8 +52,8 @@ Visit my Portfolio at <a href='https://mydigitalprofile.herokuapp.com'>My Portfo
 [website]: https://mydigitalprofile.herokuapp.com
 [twitter]: https://twitter.com/_foo290
 [instagram]: https://instagram.com/_iamnitinsharma
-[linkedin]: https://www.linkedin.com/in/iam-nitinsharma/
-
+[linkedin]: https://www.linkedin.com/in/iam-nitinsharma
+[spotify]: https://open.spotify.com/user/8nn30yykzlqao2u3q3zlseual
 
 
 
