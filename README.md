@@ -19,7 +19,7 @@ Visit my Portfolio at <a href='https://mydigitalprofile.herokuapp.com'>My Portfo
 
 ### Language Proficiency:
 
-[![Top Langs](https://github-readme-stats-git-master.foo290.vercel.app/api/top-langs/?username=foo290&layout=compact)](https://github.com/foo290/github-readme-stats)
+[![Top Langs](https://github-readme-stats-git-master.foo290.vercel.app/api/top-langs/?username=foo290&bg_color=333333&layout=compact&text_color=ffffff&title_color=eed303&icon_color=ffffff)](https://github.com/foo290/github-readme-stats)
 
 ### Socials:
 
