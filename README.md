@@ -11,9 +11,9 @@ Visit my Portfolio at <a href='https://mydigitalprofile.herokuapp.com'>My Portfo
 <hr>
 
 ### Listning to Spotify 🎧
-[![Spotify](https://novatorem-mu.vercel.app/api/spotify)](https://open.spotify.com/user/USER_NAME)
+[![Spotify](https://novatorem-mu.vercel.app/api/spotify)](https://open.spotify.com/user/8nn30yykzlqao2u3q3zlseual)
 
-### Stats
+### Stats:
 
 [![foo's github stats](https://github-readme-stats-git-master.foo290.vercel.app/api?username=foo290&hide=contribs,prs,stars,issues&&bg_color=0,c31432,240b36&count_private=true&text_color=ffffff&show_icons=true&theme=dark)](https://github.com/foo290/github-readme-stats)
 
