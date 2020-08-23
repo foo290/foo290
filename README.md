@@ -15,7 +15,7 @@ Visit my Portfolio at <a href='https://mydigitalprofile.herokuapp.com'>My Portfo
 
 ### Stats:
 
-[![foo's github stats](https://github-readme-stats-git-master.foo290.vercel.app/api?username=foo290&hide=contribs,prs,stars,issues&&bg_color=0,c31432,240b36&count_private=true&text_color=ffffff&show_icons=true&theme=dark)](https://github.com/foo290/github-readme-stats)
+[![foo's github stats](https://github-readme-stats-git-master.foo290.vercel.app/api?username=foo290&hide=contribs,prs,stars,issues&bg_color=333333&count_private=true&show_icons=true&text_color=ffffff&title_color=eed303&icon_color=ffffff)](https://github.com/foo290/github-readme-stats)
 
 ### Language Proficiency:
 
@@ -27,7 +27,6 @@ Visit my Portfolio at <a href='https://mydigitalprofile.herokuapp.com'>My Portfo
 [<img align="left" alt="Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-[<img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/spotify.svg" />][instagram]
 
 <br />
 
