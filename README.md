@@ -10,7 +10,7 @@ Visit my Portfolio at <a href='https://mydigitalprofile.herokuapp.com'>My Portfo
 
 <hr>
 
-### Listning to Spotify 🎧
+### Listning to Spotify [<img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/spotify.svg" />][instagram]🎧
 [![Not listning to any Songs right now!](https://novatorem-mu.vercel.app/api/spotify)](https://open.spotify.com/user/8nn30yykzlqao2u3q3zlseual)
 
 ### Stats:
@@ -40,6 +40,9 @@ Visit my Portfolio at <a href='https://mydigitalprofile.herokuapp.com'>My Portfo
 <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
+<img align="left" alt="Terminal" width="26px" src="https://simpleicons.org/icons/django.svg" />
+<img align="left" alt="Python" width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
+
 
 
 
