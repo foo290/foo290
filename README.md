@@ -1,6 +1,6 @@
 # Welcome 😃
 ### Hi there! 🙋🏼‍♂️
-* I am an autodidact programmer proficient in python 🐍.
+* I am an selftaught programmer proficient in python 🐍.
 * I am keen learner 👨🏼‍🎓, fond of technology👨🏼‍💻 and imaginative creativity.
 * It's been 3 years since I started working with python and now it is my primary coding language.
 * I want to learn more about my field and would love to help any fellow developer or beginner to learn.
