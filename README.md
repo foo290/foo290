@@ -1,5 +1,5 @@
 ### Listning to Spotify [<img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/spotify.svg" />][spotify]🎧
-[![Not listning to any Songs right now!](https://novatorem-mu.vercel.app/api/spotify)][spotify]
+[![Not listning to any Songs right now!](https://novatorem-2gyec2tea.vercel.app)][spotify]
 
 ### Stats:
 
