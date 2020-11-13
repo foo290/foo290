@@ -1,3 +1,8 @@
+<p align='center'>
+  <img src='https://github.com/foo290/foo290/blob/master/icons/anime_cheer_full.gif'>
+  <h1 align='center'>Welcome</h1>
+</p>
+
 ### Stats:
 
 [![foo's github stats](https://github-readme-stats-git-master.foo290.vercel.app/api?username=foo290&hide=contribs,prs,stars,issues&bg_color=333333&count_private=true&show_icons=true&text_color=ffffff&title_color=eed303&icon_color=ffffff)](https://github.com/foo290/github-readme-stats)
