@@ -1,6 +1,3 @@
-### Listning to Spotify [<img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/spotify.svg" />][spotify]🎧
-[![Not listning to any Songs right now!](https://novatorem-2gyec2tea.vercel.app)][spotify]
-
 ### Stats:
 
 [![foo's github stats](https://github-readme-stats-git-master.foo290.vercel.app/api?username=foo290&hide=contribs,prs,stars,issues&bg_color=333333&count_private=true&show_icons=true&text_color=ffffff&title_color=eed303&icon_color=ffffff)](https://github.com/foo290/github-readme-stats)
