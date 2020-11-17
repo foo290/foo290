@@ -3,6 +3,5 @@
     <img src="https://github.com/foo290/foo290/blob/master/icons/plant.gif", width=100>
     <img src="https://github.com/foo290/foo290/blob/master/icons/prpg.gif">
     <img src="https://github.com/foo290/foo290/blob/master/icons/plant.gif", width=100>
-    <img src="https://github.com/foo290/foo290/blob/master/icons/plant.gif", width=100>
-\</p>
+</p>
 
