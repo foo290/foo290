@@ -23,7 +23,8 @@ _| \_
 <br /> <br />
 
 ### Languages and Tools:
-<img align="left" alt="Kotlin" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kotlin/kotlin.png" />
+[<img align="left" alt="Kotlin" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kotlin/kotlin.png" />][kotlin]
+  
 <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
 <img align="left" alt="Python" width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
 
@@ -45,3 +46,5 @@ _| \_
 [instagram]: https://instagram.com/_iamnitinsharma
 [linkedin]: https://www.linkedin.com/in/iam-nitinsharma
 [spotify]: https://open.spotify.com/user/8nn30yykzlqao2u3q3zlseual
+  
+[kotlin]: https://github.com/foo290/Learning-Android-dev
