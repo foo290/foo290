@@ -47,4 +47,4 @@ _| \_
 [linkedin]: https://www.linkedin.com/in/iam-nitinsharma
 [spotify]: https://open.spotify.com/user/8nn30yykzlqao2u3q3zlseual
   
-[kotlin]: https://github.com/foo290/Learning-Android-dev
+[kotlin]: https://github.com/foo290/learn-kotlin
