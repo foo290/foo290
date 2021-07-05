@@ -8,41 +8,45 @@
 <h2 align="center"> About Me (Technically) </h2>
 
 ```py
-class Programmer(Person):
+class Programmer:
     def __init__(self, *args, **kwargs):
-        super(Programmer, self).__init__(*args, **kwargs)
-        
-        self.name: str = "Nitin"
-        self.status: str = "Programmer"
-        self.hobbies: tuple = "Programming", "Reading", "Gaming",
-        self.skills: dict = {
-            "Python": "Advance",
-            "C++": "Intermediate / Learning",
-            "JavaScript": "Intermediate / Learning",
-            "Kotlin": "Good",
-            "Cloud": "Good",
-            "Git/GitHub": "Perfect",
-        }
+        self.name: str = kwargs.get('name')
+        self.status: str = kwargs.get('status')
+        self.hobbies: tuple = kwargs.get('hobbies')
+        self.skills: dict = kwargs.get('skills')
 
-    @property
-    def show_skills(self) -> dict:
-        return self.skills
-
-    @property
-    def show_hobbies(self) -> tuple:
-        return self.hobbies
+    @classmethod
+    def build_me(cls, *args, **kwargs):
+        return cls(*args, **kwargs)
 
     def __str__(self) -> str:
-        description = f"""
-        Name: {self.name}
-        Status: {self.status}
-        Hobbies: {self.hobbies}
-        Skills: {self.skills}
-        """.lstrip(" ")
-        return description
+        if all([values for key, values in vars(self).items()]):
+            description = f"""
+            Name: {self.name}
+            Status: {self.status}
+            Hobbies: {self.hobbies}
+            Skills: {self.skills}
+            """.lstrip(" ")
+            return description
+        else:
+            return "Properly Build yourself first!"
 
 
-me = Programmer()
+my_properties = {
+    "name": "Nitin",
+    "status": "Programmer",
+    "hobbies": ["Programming", "Reading", "Gaming", ],
+    "skills": {
+        "Python": "Advance",
+        "C++": "Intermediate / Learning",
+        "JavaScript": "Intermediate / Learning",
+        "Kotlin": "Good",
+        "Cloud": "Good",
+        "Git/GitHub": "Perfect",
+    }
+}
+
+me = Programmer.build_me(**my_properties)
 print(me)
 
 ```
