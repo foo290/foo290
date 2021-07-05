@@ -1,4 +1,59 @@
-<!-- <img src='https://github.com/foo290/foo290/blob/master/icons/prpg.gif'> -->
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+World!;My+name+is+Nitin.;Welcome+to+my+profile!&center=true&size=27">
+</h1>
+
+[![Nitin's github activity graph](https://activity-graph.herokuapp.com/graph?username=foo290&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+
+<h2 align="center"> About Me (Technically) </h2>
+
+```py
+class Programmer(Person):
+    def __init__(self, *args, **kwargs):
+        super(Programmer, self).__init__(*args, **kwargs)
+        
+        self.name: str = "Nitin"
+        self.status: str = "Programmer"
+        self.hobbies: tuple = "Programming", "Reading", "Gaming",
+        self.skills: dict = {
+            "Python": "Advance",
+            "C++": "Intermediate / Learning",
+            "JavaScript": "Intermediate / Learning",
+            "Kotlin": "Good",
+            "Cloud": "Good",
+            "Git/GitHub": "Perfect",
+        }
+
+    @property
+    def show_skills(self) -> dict:
+        return self.skills
+
+    @property
+    def show_hobbies(self) -> tuple:
+        return self.hobbies
+
+    def __str__(self) -> str:
+        description = f"""
+        Name: {self.name}
+        Status: {self.status}
+        Hobbies: {self.hobbies}
+        Skills: {self.skills}
+        """.lstrip(" ")
+        return description
+
+
+me = Programmer()
+print(me)
+
+```
+
+<div align='center'>
+
+  # Contributions:
+  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=foo290&theme=dark)](https://git.io/streak-stats)
+
+</div>
+
 
 <div align='center'>
 <h1>Featured Repo</h1>
@@ -63,6 +118,26 @@ These rules, which compare the behavior of the automaton to real life, can be co
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
 <img align="left" alt="Python" width="36px" src="https://raw.githubusercontent.com/foo290/foo290/master/icons/icon(2).png" />
 <img align="left" alt="as" width="45px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Breezeicons-apps-48-android-studio.svg/1024px-Breezeicons-apps-48-android-studio.svg.png" />
+
+<br />
+
+
+<!-- <p align="center">
+    <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
+    <img src="https://img.shields.io/badge/python-E34F26?style=for-the-badge&logo=HTML5&logoColor=white">
+    <img src="https://img.shields.io/badge/kotlin-1572B6?style=for-the-badge&logo=kotlin&logoColor=white">
+    <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=C%2B%2B&logoColor=white">
+    <img src="https://img.shields.io/badge/NODE.JS-339933?style=for-the-badge&logo=Node.js&logoColor=white">
+    <img src="https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=JSON&logoColor=white">
+    <img src="https://img.shields.io/badge/sublime%20text-FF9800?&style=for-the-badge&logo=sublime-text&logoColor=white">
+  <br>
+    <img src="https://img.shields.io/badge/VS%20Code-007ACC?&style=for-the-badge&logo=visual-studio-code&logoColor=white">
+    <img src="https://img.shields.io/badge/google%20chrome-4285F4?&style=for-the-badge&logo=google%20chrome&logoColor=white">
+    <img src="https://img.shields.io/badge/git-F05032?&style=for-the-badge&logo=git&logoColor=white">
+    <img src="https://img.shields.io/badge/react-61DAFB?&style=for-the-badge&logo=react&logoColor=121212">
+    <img src="https://img.shields.io/badge/sqlite-003B57?&style=for-the-badge&logo=sqlite&logoColor=white">
+</p>
+ -->
 
 [website]: https://foo290.github.io
 [twitter]: https://twitter.com/_foo290
