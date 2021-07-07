@@ -5,7 +5,7 @@
 [![Nitin's github activity graph](https://activity-graph.herokuapp.com/graph?username=foo290&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
-<h2 align="center"> About Me (Technically) </h2>
+<h2 align="center"> About Me (Programmatically) </h2>
 
 ```py
 class Programmer:
