@@ -1,6 +1,6 @@
-<!-- <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+World!;My+name+is+Nitin.;Welcome+to+my+profile!&center=true&size=27">
-</h1> -->
+<div align="center">
+    <img width='300px' src="https://github.com/foo290/foo290/blob/master/icons/octocat.gif">
+</div>
 
 [![Nitin's github activity graph](https://activity-graph.herokuapp.com/graph?username=foo290&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
