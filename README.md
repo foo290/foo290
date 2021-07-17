@@ -5,7 +5,7 @@
 [![Nitin's github activity graph](https://activity-graph.herokuapp.com/graph?username=foo290&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
-<h2 align="center"> About Me (Programmatically) </h2>
+<!-- <h2 align="center"> About Me (Programmatically) </h2>
 
 ```py
 class Programmer:
@@ -49,7 +49,7 @@ my_properties = {
 me = Programmer.build_me(**my_properties)
 print(me)
 
-```
+``` -->
 
 <div align='center'>
 
@@ -134,7 +134,7 @@ Given a link, will draw all the connected web pages to that link and further mor
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 <img align="left" alt="Terminal" width="26px" src="https://simpleicons.org/icons/django.svg" />
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
-<img align="left" alt="Python" width="36px" src="https://raw.githubusercontent.com/foo290/foo290/master/icons/icon(2).png" />
+<!-- <img align="left" alt="Python" width="36px" src="https://raw.githubusercontent.com/foo290/foo290/master/icons/icon(2).png" /> -->
 <img align="left" alt="as" width="45px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Breezeicons-apps-48-android-studio.svg/1024px-Breezeicons-apps-48-android-studio.svg.png" />
 
 <br />
