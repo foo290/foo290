@@ -64,6 +64,18 @@ print(me)
 </div>
 <br />
 
+<h3>
+  <a href="https://github.com/foo290/A-Start-path-finding">
+    Path Finding A* Algorithm
+  </a>
+</h3>
+
+
+<div align='center'>
+  <img src="https://github.com/foo290/A-Start-path-finding/blob/main/readme_imgs(Non-Project)/astar_algo.gif">
+</div>
+
+<br />
 
 <h3>
   <a href="https://github.com/foo290/Conways-game-of-life">
