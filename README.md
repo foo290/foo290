@@ -2,8 +2,8 @@
     <img width='300px' src="https://github.com/foo290/foo290/blob/master/icons/octocat.gif">
 </div> -->
 
-[![Nitin's github activity graph](https://c-graph.herokuapp.com/graph?username=foo290&bg_color=fcfe9&color=e4c98&line=72086b&point=03d3d&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
+<!-- [![Nitin's github activity graph](https://c-graph.herokuapp.com/graph?username=foo290&bg_color=fcfe9&color=e4c98&line=72086b&point=03d3d&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+ -->
 
 <!-- <h2 align="center"> About Me (Programmatically) </h2>
 
