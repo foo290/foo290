@@ -2,10 +2,24 @@
     <img width='300px' src="https://github.com/foo290/foo290/blob/master/icons/octocat.gif">
 </div> -->
 
-<!-- [![Nitin's github activity graph](https://c-graph.herokuapp.com/graph?username=foo290&bg_color=fcfe9&color=e4c98&line=72086b&point=03d3d&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
- -->
+[![](https://komarev.com/ghpvc/?username=foo290)]()
+[![Nitin's github activity graph](https://activity-graph.herokuapp.com/graph?username=foo290&theme=react-dark)]()
+
+  
+<table><tr><td><img src="https://github-readme-stats.vercel.app/api/?username=foo290&count_private=true&showicons=true"/></td><td><img src="https://github-readme-streak-stats.herokuapp.com/?user=foo290"/></td></tr></table>
+
+
+<!-- <div align='center'>
+    
+[![trophy](https://github-profile-trophy.vercel.app/?username=foo290&theme=gruvbox)]()
+
+</div> -->
+
 
 <!-- <h2 align="center"> About Me (Programmatically) </h2>
+
+
+
 
 ```py
 class Programmer:
@@ -50,13 +64,13 @@ me = Programmer.build_me(**my_properties)
 print(me)
 
 ``` -->
-
+<!-- 
 <div align='center'>
 
   # Contributions:
   [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=foo290&theme=dark)](https://git.io/streak-stats)
 
-</div>
+</div> -->
 
 
 <div align='center'>
@@ -126,7 +140,7 @@ Given a link, will draw all the connected web pages to that link and further mor
 [<img align="left" alt="" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/spotify.svg" />][spotify]    
+[<img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/spotify.svg" />][spotify]
 
 <br /> <br />
 
