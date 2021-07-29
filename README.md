@@ -8,6 +8,8 @@
   
 <table><tr><td><img src="https://github-readme-stats.vercel.app/api/?username=foo290&count_private=true&showicons=true"/></td><td><img src="https://github-readme-streak-stats.herokuapp.com/?user=foo290"/></td></tr></table>
 
+**I sometimes write about what I'm doing,** 👉 [here](https://foo290.github.io/open-code/) 😄
+
 
 <!-- <div align='center'>
     
