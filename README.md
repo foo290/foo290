@@ -6,7 +6,17 @@
 [![Nitin's github activity graph](https://activity-graph.herokuapp.com/graph?username=foo290&theme=react-dark)]()
 
   
-<table><tr><td><img src="https://github-readme-stats.vercel.app/api/?username=foo290&count_private=true&showicons=true"/></td><td><img src="https://github-readme-streak-stats.herokuapp.com/?user=foo290"/></td></tr></table>
+<table>
+    <tr>
+        <td>
+            <img src="https://github-readme-stats.vercel.app/api/?username=foo290&count_private=true&showicons=true"/>
+        </td>
+        <td>
+            <img src="https://github-readme-streak-stats.herokuapp.com/?user=foo290"/>
+        </td>
+    </tr>
+</a>
+</table>
 
 **I sometimes write about what I'm doing,** 👉 [here](https://foo290.github.io/open-code/) 😄
 
@@ -18,34 +28,25 @@
 </div> -->
 
 
-<!-- <h2 align="center"> About Me (Programmatically) </h2>
+<h2 align="center"> About Me (Programmatically) </h2>
 
 
 
 
 ```py
-class Programmer:
-    def __init__(self, *args, **kwargs):
-        self.name: str = kwargs.get('name')
-        self.status: str = kwargs.get('status')
-        self.hobbies: tuple = kwargs.get('hobbies')
-        self.skills: dict = kwargs.get('skills')
+class ProgrammerFactory:
+    def __init__(self, **kwargs):
+        self.__dict__.update(kwargs)
 
     @classmethod
-    def build_me(cls, *args, **kwargs):
-        return cls(*args, **kwargs)
+    def build_me(cls, **kwargs):
+        return cls(**kwargs)
 
     def __str__(self) -> str:
-        if all([values for key, values in vars(self).items()]):
-            description = f"""
-            Name: {self.name}
-            Status: {self.status}
-            Hobbies: {self.hobbies}
-            Skills: {self.skills}
-            """.lstrip(" ")
-            return description
-        else:
-            return "Properly Build yourself first!"
+        description: str = ""
+        for key, value in vars(self).items():
+            description = f"{key.title()}: {value.title() if isinstance(value, str) else value}\n"
+        return description
 
 
 my_properties = {
@@ -62,10 +63,10 @@ my_properties = {
     }
 }
 
-me = Programmer.build_me(**my_properties)
+me = ProgrammerFactory.build_me(**my_properties)
 print(me)
 
-``` -->
+```
 <!-- 
 <div align='center'>
 
@@ -100,26 +101,10 @@ print(me)
 </h3>
 The Game of Life, also known simply as Life, is a cellular automaton devised by the British mathematician John Horton Conway in 1970.
 
-It is a zero-player game, meaning that its evolution is determined by its initial state, requiring no further input. One interacts with the Game of Life by creating an initial configuration and observing how it evolves. 
-
-It is Turing complete and can simulate a universal constructor or any other Turing machine.
-
 <div align='center'>
   <img src="https://github.com/foo290/Conways-game-of-life/blob/main/readmeImages(non-project)/game_of_life.gif" width="720px">
 </div>
 
-The universe of the Game of Life is an infinite, two-dimensional orthogonal grid of square cells, each of which is in one of two possible states, live or dead, (or populated and unpopulated, respectively). Every cell interacts with its eight neighbours, which are the cells that are horizontally, vertically, or diagonally adjacent. At each step in time, the following transitions occur:
-
-* Any live cell with fewer than two live neighbours dies, as if by underpopulation.
-* Any live cell with two or three live neighbours lives on to the next generation.
-* Any live cell with more than three live neighbours dies, as if by overpopulation.
-* Any dead cell with exactly three live neighbours becomes a live cell, as if by reproduction.
-
-
-These rules, which compare the behavior of the automaton to real life, can be condensed into the following:
-* Any live cell with two or three live neighbours survives.
-* Any dead cell with three live neighbours becomes a live cell.
-* All other live cells die in the next generation. Similarly, all other dead cells stay dead.
 <br />
 
 <h3>
