@@ -45,7 +45,7 @@ class ProgrammerFactory:
     def __str__(self) -> str:
         description: str = ""
         for key, value in vars(self).items():
-            description = f"{key.title()}: {value.title() if isinstance(value, str) else value}\n"
+            description += f"{key.title()}: {value.title() if isinstance(value, str) else value}\n"
         return description
 
 
