@@ -18,7 +18,7 @@
 </a>
 </table>
 
-<!-- **I sometimes write about what I'm doing,** 👉 [here](https://foo290.github.io/open-code/) 😄 -->
+**I sometimes write about what I'm doing,** 👉 [here](https://foo290.github.io/open-code/) 😄
 
 
 <!-- <div align='center'>
