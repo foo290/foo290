@@ -5,10 +5,6 @@
 
 <p align="center"><img  src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExb2MyMm5ibzl3ZXhjaWVncjZmbnJnNGxieXkyMjM0YW5ya3FqeTc5eiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/HidxJODnXSSZxYlkwy/giphy.gif"/></p>
 
-<p align="center">
-<a href="https://ns06.in" target="_blank">
-  <img src="https://img.shields.io/badge/Check Out-Something I cook when im free-blue?style=for-the-badge" />
-</a>
-</p>
+
 
 
